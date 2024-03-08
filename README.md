@@ -1,1 +1,1 @@
-This project detects Sign Language Generation From Video using YOLOV5
+This project helps in Sign Language Generation From Video using YOLOV5
